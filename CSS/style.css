@@ -1,0 +1,22 @@
+html{
+    
+
+    background-image: linear-gradient(to bottom,blue,white);
+    background-repeat: no-repeat;
+    height: 100%;
+}
+
+body{
+    
+
+    background-image: linear-gradient(to bottom,blue,white);
+    background-repeat: no-repeat;
+    height: 100%;
+}
+h1,div{
+    color: white;
+    text-align: center;
+}
+b{
+    color: black;
+}
