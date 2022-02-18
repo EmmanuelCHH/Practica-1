@@ -19,4 +19,9 @@ h1,div{
 }
 b{
     color: black;
+
+}
+img{
+    display: block;
+    margin: auto;
 }
