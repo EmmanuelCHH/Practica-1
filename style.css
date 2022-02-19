@@ -1,6 +1,41 @@
 body{
-    height: 100%;
-
-    background-image: linear-gradient(to bottom,blue,white);
-    background-repeat: no-repeat;
+    margin: 0;
+    padding: 0;
+    background: url(1151373.png);
+    background-size: cover;
+    background-position: center;
 }
+
+.info header{
+
+    text-align: center;
+    background-color :  black ;
+    color: white;
+    padding: 7px;
+}
+
+.info{
+
+    background-color: rgb(73, 73, 73);
+    width: 70%;
+    max-width: 2000x;
+    margin: 1.6em auto;
+    
+    display: grid;
+    gap: 1.6em;
+    
+    padding: 4px;
+   
+
+}
+.info > .article{
+
+    background: #ffffff;
+    padding: 20px;
+    margin-top: 5px;
+    color: #000000;
+    padding: 10px;
+    border: solid black;
+
+}
+
