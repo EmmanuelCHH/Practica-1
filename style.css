@@ -39,3 +39,13 @@ body{
 
 }
 
+@font-face {
+
+    font-family: Throwupz;
+    
+    src:
+    local('Throwupz-z7vX'),
+    local('Throwupz'),
+    url('Throwupz-z7vX.ttf');
+    
+    }
